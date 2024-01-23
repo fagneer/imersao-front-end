@@ -1,2 +1,2 @@
-# imersao-front-end
+# imersao-front-end-spotify
 Curso: Imersão Front-End
